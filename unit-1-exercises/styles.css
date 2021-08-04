@@ -1,0 +1,35 @@
+.login {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#uname {
+    margin: auto;
+    display: block;
+}
+
+#upass {
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+}
+
+#submit {
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    background-color: aqua;
+    color: white;
+}
+
+#vehicle3 {
+    margin-left: 300px;
+    width: 30px;
+    margin-top: 40px;
+    position: absolute;
+}
